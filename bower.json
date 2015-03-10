@@ -1,0 +1,22 @@
+{
+  "name": "ConfernceApp",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tk811/ConfernceApp",
+  "authors": [
+    "David Fekke <david@fekke.com>"
+  ],
+  "main": "public/index.html",
+  "license": "Apache",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "bootstrap": "~3.3.2"
+  }
+}
