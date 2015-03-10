@@ -8,3 +8,5 @@ To view test site make sure you have Node.js installed, and enter the following 
 > npm install
 >
 > node server.js
+
+The site can be viewed at [http://jaxitprocamp2015.azurewebsites.net/](http://jaxitprocamp2015.azurewebsites.net/).
