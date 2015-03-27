@@ -6,7 +6,9 @@ To view test site make sure you have [Node.js](https://nodejs.org) installed, an
 On windows, run these NPM commands as administrator, on Mac OS X and Linux, use sudo before npm command.
 
 > npm install -g bower
->
+
+The rest of these NPM commands can be run under a regular command line without admin rights.
+
 > npm install
 >
 > node server.js
