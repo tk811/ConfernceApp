@@ -15,4 +15,4 @@ The rest of these NPM commands can be run under a regular command line without a
 
 The site can be viewed at [http://jaxitprocamp2015.azurewebsites.net/](http://jaxitprocamp2015.azurewebsites.net/).
 
-Copyright 2015
+JaxITProCamp, Copyright 2015
