@@ -1,7 +1,7 @@
 # ConfernceApp
 Work for ITProCamp Conference APP
 
-This repository has been moved to [https://github.com/davidfekke/ConferenceApp](https://github.com/davidfekke/ConferenceApp)
+This repository has been moved to [https://github.com/davidfekke/ConfernceApp](https://github.com/davidfekke/ConfernceApp)
 
 Please do not use this repo going forward.
 
