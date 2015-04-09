@@ -1,0 +1,25 @@
+{
+  "name": "ConfernceApp",
+  "version": "1.0.0",
+  "description": "This is the beta site mobile app for the Jax IT Pro Camp",
+  "main": "index.html",
+  "dependencies": {
+    "connect": "^3.3.5",
+    "serve-static": "^1.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidfekke/ConfernceApp.git"
+  },
+  "author": "Sidney Moore",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/davidfekke/ConfernceApp/issues"
+  },
+  "homepage": "https://github.com/davidfekke/ConfernceApp"
+}
