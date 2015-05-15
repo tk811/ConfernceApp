@@ -35,4 +35,5 @@ build
 .grunt
 
 node_modules
+_site
 # ===== End Node.gitignore =====

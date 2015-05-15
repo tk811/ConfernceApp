@@ -1,0 +1,9 @@
+# Site settings
+title: Jax IT Pro Camp
+email: your-email@domain.com
+description: This is the static site for the IT Pro Camp Jax
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "www.itprocampjax.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
