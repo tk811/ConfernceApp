@@ -90,11 +90,10 @@ task :page do
   puts "Creating new page: #{filename}"
   open(filename, 'w') do |post|
     post.puts "---"
-    post.puts "layout: page"
+    post.puts "layout: default"
     post.puts "title: \"#{title}\""
     post.puts 'description: ""'
     post.puts "---"
-    post.puts "{% include JB/setup %}"
   end
 end # task :page
 
