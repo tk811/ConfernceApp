@@ -4,3 +4,35 @@ title: "Index"
 description: ""
 ---
 
+	<style type="text/css">
+      #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+		    height: 350px; 
+		    width: 500px;
+      }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script>
+    <script type="">
+		function initialize() {
+		  var myLatlng = new google.maps.LatLng(30.2492084,-81.5818765);
+		  var mapOptions = {
+		    zoom: 12,
+		    center: myLatlng
+		  }
+		  var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+		
+		  var marker = new google.maps.Marker({
+		      position: myLatlng,
+		      map: map,
+		      title: 'ITT Technical Institute - Jacksonville, Fl campus'
+		  });
+		}
+		google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+<h3>ITT Technical Institute - Jacksonville Campus</h3>
+<p>7011 A C Skinner Pkwy #140</p>
+<p>Jacksonville, FL 32256</p>
+<div id="map-canvas"></div>
+	

@@ -1,21 +1,26 @@
 
-{% if page.url == "/index.html" %}
-  <li class="active"><a href="{{ BASE_PATH }}/index.html" class="active">Home</a></li>
+{% if page.url == "/" %}
+  <li class="active"><a href="{{ BASE_PATH }}/" class="active">Home</a></li>
 {% else %}
-  <li><a href="{{ BASE_PATH }}/index.html">Home</a></li>
+  <li><a href="{{ BASE_PATH }}/">Home</a></li>
 {% endif %}
 {% if page.url == "/location/index.html" %}
-  <li class="active"><a href="{{ BASE_PATH }}/location/index.html" class="active">Location</a></li>
+  <li class="active"><a href="{{ BASE_PATH }}/location/" class="active">Location</a></li>
 {% else %}
-  <li><a href="{{ BASE_PATH }}/location/index.html">Location</a></li>
+  <li><a href="{{ BASE_PATH }}/location/">Location</a></li>
 {% endif %}
 {% if page.url == "/sessions/index.html" %}
-  <li class="active"><a href="{{ BASE_PATH }}/sessions/index.html" class="active">Sessions</a></li>
+  <li class="active"><a href="{{ BASE_PATH }}/sessions/" class="active">Sessions</a></li>
 {% else %}
-  <li><a href="{{ BASE_PATH }}/sessions/index.html">Sessions</a></li>
+  <li><a href="{{ BASE_PATH }}/sessions/">Sessions</a></li>
 {% endif %}
 {% if page.url == "/speakers/index.html" %}
-  <li class="active"><a href="{{ BASE_PATH }}/speakers/index.html" class="active">Speakers</a></li>
+  <li class="active"><a href="{{ BASE_PATH }}/speakers" class="active">Speakers</a></li>
 {% else %}
-  <li><a href="{{ BASE_PATH }}/speakers/index.html">Speakers</a></li>
+  <li><a href="{{ BASE_PATH }}/speakers/">Speakers</a></li>
+{% endif %}
+{% if page.url == "/schedule/index.html" %}
+  <li class="active"><a href="{{ BASE_PATH }}/schedule" class="active">Schedule</a></li>
+{% else %}
+  <li><a href="{{ BASE_PATH }}/schedule/">Schedule</a></li>
 {% endif %}
