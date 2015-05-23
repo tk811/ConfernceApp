@@ -24,3 +24,8 @@
 {% else %}
   <li><a href="{{ BASE_PATH }}/schedule/">Schedule</a></li>
 {% endif %}
+{% if page.url == "/sponsors/index.html" %}
+  <li class="active"><a href="{{ BASE_PATH }}/sponsors" class="active">Sponsors</a></li>
+{% else %}
+  <li><a href="{{ BASE_PATH }}/sponsors/">Sponsors</a></li>
+{% endif %}
