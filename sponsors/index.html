@@ -5,3 +5,11 @@ description: ""
 ---
 <h2>Our Sponsors</h2>
 <p>We would like to thank our sponsors, who without their support, the IT Pro Camp would not be a success.</p>
+
+<div class="row">
+{% for sponsor in site.data.sponsors %}
+	<div class="col-md-4">
+		<img src="/images/{{ sponsor.image }}" class="img-responsive" />
+	</div>
+{% endfor %}
+</div>

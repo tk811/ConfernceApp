@@ -1,0 +1,149 @@
+[
+	{
+		"name": "Alex Melching",
+		"image": "Alex.Melching.jpg",
+		"description": "MCSE - A Microsoft Azure and Office 365 Enthusiast. Sr. Technical Specialist at TechHouse consulting and supporting SMBs utilizing Microsoft Public Cloud Services such as Office 365 (Exchange Online, SharePoint Online), Dynamics CRM Online, Microsoft Intune, and Microsoft Azure."
+	},
+	{
+		"name": "James Buckner",
+		"image": "jim.buckner.png",
+		"description": "Jim Buckner has been in IT education at the corporate and college levels for the past nineteen years. After earning his Microsoft MCSE and MCT certifications Jim began teaching Microsoft Certification courses. Jim is currently employed at New Horizons Computer Learning Center in Jacksonville FL where he is responsible for teaching several CompTIA courses, and also teaches Certified Ethical Hacking, and CISSP Security courses. He has earned his CompTIA A+, Network+, and Security+, Certified Ethical Hacker (CEH) and Certified Information Systems Security Professional (CISSP) certifications. Jim earned a BBA degree with a Major in Finance from Georgia Southern University and a Masters Degree in Network Security from Capitol College in Laurel MD. Jim was recently recognized by CompTIA as one of the top 3 instructors in the country, and for each of the past 5 years he has been ranked in the top 1% of all New Horizons instructors worldwide."
+	},
+	{
+		"name": "Adnan Cartwright",
+		"image": "Adnan.Cartwright.jpg",
+		"description": "Adnan Cartwright has worked with different companies to help secure, expand, and maintain their networks using the most update technology available. Awarded the Microsoft Most Valuable Professional award in Software Packaging, Deployment and Servicing. Adnan has presented numerous events including the launch of Server 2012 and Windows 8. A graduate from ITT Technical Institute earning degrees in Information Technology Computer Networking Systems and Information Systems Security. Adnan is involved within the technical community and has a passion for teaching and sharing technical knowledge to both young adults and current professionals in the field today. As one of the organizers of the IT PRO Camp and volunteer for the I Center Community Foundation which teaches at risk kids IT skills. Adnan is immersed in the betterment of people. Founder of the Florida IT Server Group which is located both in South Florida and Jacksonville Florida. Adnan's passion for bettering those who come into contact still continues to this day."
+	},
+	{
+		"name": "Blain Barton",
+		"image": "Blain.Barton.gif",
+		"description": "Raised in Spokane Washington, Blain Barton has been with Microsoft for over 20 years and has held many diverse positions. His career started in 1988 as Team Leader in Manufacturing and Distribution, progressed to PSS Team Manager for Visual Basic Product Support, Product Consultant for Microsoft Word Division, OEM Systems Engineer and currently serves as a Senior IT Pro Evangelist. Blain has organized and delivered a wide array of technical events and has presented over 1000 live events and has received over six “top-presenter” speaking awards. He has traveled the world 3 times delivering OEM training sessions on pre-installing Microsoft Windows on new PC’s. He attended Washington State University graduating with a Bachelor’s Degree in English/Business and Minor in Computer Science. After college, Blain taught snow skiing on a professional level in the Cascade Mountains before starting his career with Microsoft. For a hobby, Blain runs a 10-acre palm tree silviculture operation in Homosassa Florida."
+	},
+	{
+		"name": "Bayer White",
+		"image": "Bayer.White.png",
+		"description": "Bayer White is a .NET Architect and Microsoft Integration, Microsoft MVP and co-founder of Jacksonville's Microsoft Developers User Group (MDUGJax). He is known within the Florida developer community from speaking at Florida Code Camps, blogging and writing articles. He has also spoken at various conferences such as PASS, DevConnections and VSLive and has been invited to Microsoft’s campus to attend Software Design Reviews (SDR) for future products. His blog can be found at http://www.humanworkflow.net and his Twitter tag is BayerWhite. Check out his latest book, published in December 2012 by Apress titled, Pro WF4.5."
+	},
+	{
+		"name": "David McKay",
+		"image": "David.McKay.jpg",
+		"description": "A diverse Database Professional covering all areas ranging from performance tuning on VLDB's to Reporting. Certified administrator for SQL Server 2000, 2005 and 2008R2 and hands on experience in Developing and Managing the Microsoft BI Stack (SSRS, SSIS, SSMS and SharePoint) environments in a Relational Database environment. Manage over 100 SQL Servers in this environment maintaining 100% up time and availability to over 50 Tier 1 applications to over 1000 employees. Specialties include capacity planning, data conversion, data analysis, ETL, database administration, disaster recovery planning, data optimization, process engineering, programming, quality control, relational databases, Reporting, SDLC, SQL Server 2005,2008R2, systems analysis, T-SQL, Stored Procedures."
+	},
+	{
+		"name": "Joey Van Do",
+		"image": "Joey.Van.Do.png",
+		"description": "Joey is an UNF alumnus with a BS in Computer Science. Joey has over 30 yrs of computing/hacking experience: Banking, Insurance, Consulting, and Military (hardware, servers, and networks). Since May 1st, 2014, Joey has officially retired with over 25 yrs of service combined from the Navy, Army, and Air National Guard. He is currently serving VyStar Credit Union members as a Senior IT Auditor."
+	},
+	{
+		"name": "Mark Radacz",
+		"image": "Mark.Radacz.png",
+		"description": "#HusbandFatherLife-L­­ongMateGeek.. 20 years hands-on experience in object oriented software analysis, design and development. X-Platform enterprise mobile apps dev using Xamarin tools co-founder of www.NFLXUG.com and www.MDUGJax.com currently works as Senior Consultant at Agile Thought."
+	},
+	{
+		"name": "Matthew Smith",
+		"image": "Matthew.Smith.png",
+		"description": "Matthew Smith, an IT Analyst, Security Enthusiast and Hobbyist with seven years in the IT Field. Currently a TEKsystems contractor for Bank of America in the area of Data Storage. Well rounded experience in all platforms and applications."
+	},
+	{
+		"name": "Steven Wheeler",
+		"image": "Steven.Wheeler.png",
+		"description": "Steven Wheeler is the Client Services Supervisor for a software development company, System Innovators. He is also the company’s one man IT shop until it gets migrated to Harris Computer’s domain. Steven’s technical background includes 16 years of component level electronics repair along with 6 years of line-of-sight microwave communications, networking, and encryption. Steven has also been working in computer networking since 1997 and obtained Microsoft’s legacy networking certification (MCSE) in 1999. He has great experience with computer LAN management, Systems Administrator, and computer repair as well as printer, scanner, and other small device service and repair. Steven grew up loving sailing, woodworking, and photography."
+	},
+	{
+		"name": "Ed Wilson",
+		"image": "edWilsonPic_HeadAndShoulders_2_Inch.jpg",
+		"description": "Ed Wilson is the Microsoft Scripting Guy, and writes the daily Hey Scripting Guy blog. He is the co-founder of PowerShell Saturday, and the Charlotte PowerShell User Group. He is a frequent speaker at conferences, user groups and other places where groups of computer people may be found. He has written books about every version of Windows PowerShell, as well as other books related to automation and operating systems. His most recent book is Windows PowerShell Best Practices."
+	},
+	{
+		"name": "Jyoti Chawla",
+		"image": "jyoti.chawla.jpg",
+		"description": "Jyoti Chawla is a  Senoir Software Engineer with 30 years of experience in IT. Jyoti is the organinzer for the Jax Architecture Signature Group. He is also a registered nurse."
+	},
+	{
+		"name": "Devin Knight",
+		"image": "devinknight-website1.jpg",
+		"description": "Devin is a Senior BI consultant at Pragmatic Works Consulting.  Previously, he tech edited the book Professional Microsoft SQL Server 2008 Integration Services and was an author in the books Knight’s 24-Hour Trainer: Microsoft SQL Server 2008 Integration Services, Knight’s Microsoft Business Intelligence 24-Hour Trainer and SharePoint 2010 Business Intelligence 24-Hour Trainer.  He has spoken at past conferences like PASS, SQL Saturdays and Code Camps. He is also the Vice President of the local SQL users’ group (JSSUG)."
+	},
+	{
+		"name": "Bill Crowe",
+		"image": "",
+		"description": ""
+	},
+	{
+		"name": "Brendan Mackay",
+		"image": "",
+		"description": ""
+	},
+	{
+		"name": "Chris Albresktson",
+		"image": "",
+		"description": ""
+	},
+	{
+		"name": "David Phillips",
+		"image": "",
+		"description": ""
+	},
+	
+	{
+		"name": "Ernesto Johnson",
+		"image": "",
+		"description": ""
+	},
+	{
+		"name": "Hedda Ciaramella",
+		"image": "",
+		"description": ""
+	},
+	{
+		"name": "Henrietta Robinson",
+		"image": "",
+		"description": ""
+	},
+	{
+		"name": "Herb Ellis",
+		"image": "",
+		"description": ""
+	},
+	{
+		"name": "Jess Hires",
+		"image": "",
+		"description": ""
+	},
+	{
+		"name": "Jim Gazdik",
+		"image": "",
+		"description": ""
+	},
+	
+	{
+		"name": "Kim Nguyen",
+		"image": "",
+		"description": ""
+	},
+	{
+		"name": "Lee Glass",
+		"image": "",
+		"description": ""
+	},
+	{
+		"name": "Michael Durham",
+		"image": "",
+		"description": ""
+	},
+	{
+		"name": "Natalie Kenney",
+		"image": "",
+		"description": ""
+	},
+	{
+		"name": "Richard Owen",
+		"image": "",
+		"description": ""
+	},
+	{
+		"name": "Sean Mackey",
+		"image": "",
+		"description": ""
+	}
+]

@@ -1,5 +1,5 @@
 
-{% if page.url == "/" %}
+{% if page.url == "/index.html" %}
   <li class="active"><a href="{{ BASE_PATH }}/" class="active">Home</a></li>
 {% else %}
   <li><a href="{{ BASE_PATH }}/">Home</a></li>
