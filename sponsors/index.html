@@ -8,8 +8,16 @@ description: ""
 
 <div class="row">
 {% for sponsor in site.data.sponsors %}
-	<div class="col-md-4">
-		<img src="/images/{{ sponsor.image }}" class="img-responsive" />
-	</div>
+	{% if sponsor.url != null %}
+	  	<div class="col-md-4">
+			<a href="{{ sponsor.url }}" target="_blank">
+				<img src="/images/{{ sponsor.image }}" class="img-responsive" />
+			</a>
+		</div>
+	{% else %}
+		<div class="col-md-4">
+			<img src="/images/{{ sponsor.image }}" class="img-responsive" />
+		</div>
+	{% endif %}
 {% endfor %}
 </div>
