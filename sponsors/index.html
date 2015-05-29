@@ -9,14 +9,14 @@ description: ""
 <div class="row">
 {% for sponsor in site.data.sponsors %}
 	{% if sponsor.url != null %}
-	  	<div class="col-md-4">
+	  	<div class="col-md-4 add-margin">
 			<a href="{{ sponsor.url }}" target="_blank">
-				<img src="/images/{{ sponsor.image }}" class="img-responsive" />
+				<img src="/images/{{ sponsor.image }}" class="img-responsive add-padding" />
 			</a>
 		</div>
 	{% else %}
-		<div class="col-md-4">
-			<img src="/images/{{ sponsor.image }}" class="img-responsive" />
+		<div class="col-md-4 add-margin">
+			<img src="/images/{{ sponsor.image }}" class="img-responsive add-padding" />
 		</div>
 	{% endif %}
 {% endfor %}
