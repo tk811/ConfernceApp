@@ -30,6 +30,11 @@
 		"description": "Larry is the President of i-infusion, Inc and Chairperson, Florida Section SAE International. He has Decades of Configuration Management experience on hundreds of government and commercial projects including the DoD, tier 1 and sub tier aerospace/defense suppliers, electronic developers/manufactures, medical developers/manufactures, automotive developers/manufactures, and industrial equipment developers/manufactures, as well as numerous service/process industry technology implementations. Experienced consultant and CM instructor specializing in the methodical investigation, analysis, review and documentation of all or part of a business in terms of business functions and processes, the information used and the data on which the information is based. For use in process and knowledge driven environments, including acquisition, product development, engineering, manufacturing, supply chain, retail, distribution, and sustainment."
 	},
 	{
+		"name": "Scott Gleason",
+		"image": "scott.gleason.jpg",
+		"description": "Scott is a DBA here in Jacksonville for over the last ten years. He is also Vice President of the Jacksonville SQL Server Users Group."
+	},
+	{
 		"name": "Bayer White",
 		"image": "Bayer.White.png",
 		"description": "Bayer White is a .NET Architect and Microsoft Integration, Microsoft MVP and co-founder of Jacksonville's Microsoft Developers User Group (MDUGJax). He is known within the Florida developer community from speaking at Florida Code Camps, blogging and writing articles. He has also spoken at various conferences such as PASS, DevConnections and VSLive and has been invited to Microsoft’s campus to attend Software Design Reviews (SDR) for future products. His blog can be found at http://www.humanworkflow.net and his Twitter tag is BayerWhite. Check out his latest book, published in December 2012 by Apress titled, Pro WF4.5."
