@@ -85,80 +85,13 @@
 		"description": "Bill Crowe is a Vice President with JP Morgan Chase. Bill has over 20 years experience in Information Security Management, Risk Management, Third Party Oversight and Integrated Auditing performing those functions in the U. S. Navy, the private sector and 2 global financial institutions.  Bill is an experienced speaker, presenting security, vendor management and audit topics in such forums as the 2014 Governance Risk and Controls Conference, 2013 ISACA Chapter Leadership, 2011-2013 University of North Florida CyberSecurity forums and various professional organizations in Jacksonville. Bill is an Adjunct Professor with ITT-Tech with over 5 years teaching in the Bachelor of Science degree program for Information Systems CyberSecurity. Bill has his  BS in Business Management and MBA. Bills certifications with ISACA are the Certified Information Systems Auditor (CISA),Certified Information Systems Manager (CISM) and Certified in Risk and  Information Systems Controls (CRISC). Bill is also Certified in Risk Management Assurance from the IIA.  Bill is the Chapter President for the ISACA Jacksonville Chapter."
 	},
 	{
-		"name": "Brendan Mackay",
-		"image": "",
-		"description": ""
+		"name": "Rahul Ravindran",
+		"image": "rahul.ravindran.jpg",
+		"description": "Rahul Ravindran works as a technology solution strategist helping clients design, architect and develop custom tailored applications. He is an experienced architect in delivering highly scalable and distributed application systems spanning Microsoft and open source technologies. Rahul is a V-TSP (Virtual Technology Solutions Professional) with Microsoft focused on SharePoint, Business Intelligence and Azure. Rahul conducts monthly webinars on SharePoint and Azure and also speaks at Microsoft events on Cloud Computing, Business Intelligence and Big Data."
 	},
 	{
-		"name": "Chris Albresktson",
-		"image": "",
-		"description": ""
-	},
-	{
-		"name": "David Phillips",
-		"image": "",
-		"description": ""
-	},
-	
-	{
-		"name": "Ernesto Johnson",
-		"image": "",
-		"description": ""
-	},
-	{
-		"name": "Hedda Ciaramella",
-		"image": "",
-		"description": ""
-	},
-	{
-		"name": "Henrietta Robinson",
-		"image": "",
-		"description": ""
-	},
-	{
-		"name": "Herb Ellis",
-		"image": "",
-		"description": ""
-	},
-	{
-		"name": "Jess Hires",
-		"image": "",
-		"description": ""
-	},
-	{
-		"name": "Jim Gazdik",
-		"image": "",
-		"description": ""
-	},
-	
-	{
-		"name": "Kim Nguyen",
-		"image": "",
-		"description": ""
-	},
-	{
-		"name": "Lee Glass",
-		"image": "",
-		"description": ""
-	},
-	{
-		"name": "Michael Durham",
-		"image": "",
-		"description": ""
-	},
-	{
-		"name": "Natalie Kenney",
-		"image": "",
-		"description": ""
-	},
-	{
-		"name": "Richard Owen",
-		"image": "",
-		"description": ""
-	},
-	{
-		"name": "Sean Mackey",
-		"image": "",
-		"description": ""
-	}
+		"name": "Paul Fogel",
+		"image": "paul.fogel.jpg",
+		"description": "Paul is the Division Director for Robert Half Technology. With more than 5 years of experience specializing in the placement of highly skilled IT and Engineering professionals with a wide variety of companies."
+	} 
 ]
