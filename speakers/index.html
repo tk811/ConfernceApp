@@ -10,6 +10,7 @@ description: "Speakers"
 	  <div class="panel-heading">
 	    <h3 class="panel-title">{{ speaker.name }}</h3>
 	  </div>
+	  {% if speaker.image != null %}
 	  <div class="panel-body">
 	    <div class="col-md-4">
 			<img src="/images/{{ speaker.image }}" class="center-block img-responsive" />
@@ -18,6 +19,13 @@ description: "Speakers"
 			{{ speaker.description }}
 		</div>
 	  </div>
+	  {% else %}
+	  <div class="panel-body">
+		<div class="col-md-12">
+			{{ speaker.description }}
+		</div>
+	  </div>
+	  {% endif %}
 	</div>
 {% endfor %}
 
